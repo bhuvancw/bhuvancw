@@ -1,7 +1,5 @@
 # Hi there, I'm Bhuvan Wandkar! 👋
 
-![Banner](https://via.placeholder.com/1000x200?text=Data+Analyst)
-
 ## 🔍 About Me
 
 I'm an aspiring Data Analyst with a strong foundation in Excel, Power BI, SQL, and Python. I'm passionate about transforming raw data into actionable insights that drive business decisions. With hands-on experience in data gathering, cleaning, analyzing, and visualizing, I'm committed to uncovering meaningful patterns that add real value.
